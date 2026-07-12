@@ -1,0 +1,6 @@
+{
+  "name": "Knowledge Sankul (નોલેજ સંકુલ)",
+  "description": "Expert Educational Author platform for generating highly accurate Gujarati book chapters for competitive exams.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
